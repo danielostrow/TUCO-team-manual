@@ -3,7 +3,7 @@
 * Make an account for the following:
   - Hack the box (Labs)
     - https://app.hackthebox.com/invite
-    - Recommend using VIP+ if you would like to use the platform on your own
+      - Recommend using VIP+ if you would like to use the platform on your own
   
   - Hacker One
     - https://hackerone.com/directory/programs?offers_bounties=true&order_direction=DESC&order_field=launched_at
