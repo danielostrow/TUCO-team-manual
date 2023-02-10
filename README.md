@@ -9,16 +9,16 @@
     - https://hackerone.com/directory/programs?offers_bounties=true&order_direction=DESC&order_field=launched_at
  
  ## Virtual Machine Requirement
- * Must have a seperate dedicated workspace.
- - .iso files are in the repository
- * Three virtual machines are required. Please do not partticipate without a safe, virtual environment.
+ Must have a seperate dedicated workspace.
+  - .iso files are in the repository
+ Three virtual machines are required. Please do not partticipate without a safe, virtual environment.
  
- - Sandboxing
- - Pentesting
- - General Use
+    - Sandboxing
+    - Pentesting
+    - General Use
  
  
- - Hypervisor
+ ### Hypervisor
  ` A Hypervisor is a software that can be used to create and monitor Virtual Machines `
   - Windows/Linux
     - VMware Workstation
