@@ -1,7 +1,7 @@
 # TU CyberOps 2023
 
  Make an account for the following:
-  - Hack the box (Labs)
+  - Hack the Box (Labs)
     - https://app.hackthebox.com/invite
       - Recommend using VIP+ if you would like to use the platform on your own
   
