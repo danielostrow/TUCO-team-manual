@@ -28,6 +28,9 @@
   
  Two virtual machines are required. Choose your favorite flavor!
  
+ Can download .iso's I've collected here:
+ - https://www.dropbox.com/scl/fo/j34ardryo75m3hknrrkrt/h?dl=0&rlkey=a1f87tyu1mk0v7oetengpzbov
+ 
     - General Use
       - Used as a dev, research environment for building tools, services, etc...
     - Pentesting
