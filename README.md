@@ -1,6 +1,6 @@
 # TU CyberOps 2023
 
-* Make an account for the following:
+ Make an account for the following:
   - Hack the box (Labs)
     - https://app.hackthebox.com/invite
       - Recommend using VIP+ if you would like to use the platform on your own
@@ -9,14 +9,23 @@
     - https://hackerone.com/directory/programs?offers_bounties=true&order_direction=DESC&order_field=launched_at
  
  ## Virtual Machine Requirement
- Must have a seperate dedicated workspace.
+ Must have a seperate dedicated workspace. Please do not try participate without a safe, virtual environment.
   - .iso files are in the repository
- Three virtual machines are required. Please do not partticipate without a safe, virtual environment.
+ Two virtual machines are required. Choose your favorite flavor!
  
-    - Sandboxing
-    - Pentesting
     - General Use
+      - Used as a dev, research environment for building tools, services, etc...
+    - Pentesting
+      - Recommendations:
+        - Kali
+        - Parrot
+        - Tails (for OSINT)
  
+ Sandboxing machines (installed as needed)
+  - Windows
+  - RedHat based Linux
+  - Debian based Linux
+    * We will host MacOs vm's to use as needed for sandboxing.
  
  ### Hypervisor
  ` A Hypervisor is a software that can be used to create and monitor Virtual Machines `
