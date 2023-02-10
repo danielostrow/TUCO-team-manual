@@ -23,8 +23,9 @@
     - VirtualBox (Intel only. ARM and M1/M2 processors not stable)
       - https://www.virtualbox.org/wiki/Downloads
  ### Workspace Requirement
- Must have a seperate dedicated workspace. Please do not try participate without a safe, virtual environment.
+ Must have a seperate dedicated workspace. Please do not to try participate without a safe, virtual environment.
   - .iso files are in the repository
+  
  Two virtual machines are required. Choose your favorite flavor!
  
     - General Use
