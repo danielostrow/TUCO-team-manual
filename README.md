@@ -33,7 +33,7 @@
       - Recommendations:
         - Kali
         - Parrot
-        - Tails (for OSINT)
+        - Tails (Route through TOR for OSINT)
  
  Sandboxing machines (installed as needed)
   - Windows
