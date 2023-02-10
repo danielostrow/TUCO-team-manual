@@ -9,6 +9,20 @@
     - https://hackerone.com/directory/programs?offers_bounties=true&order_direction=DESC&order_field=launched_at
  
  ## Virtual Machine Requirement
+ ### Hypervisor
+ ` A Hypervisor is a software that can be used to create and monitor Virtual Machines `
+  - Windows/Linux
+    - VMware Workstation
+      - https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
+    - VirtualBox (ARM processors not stable)
+      - https://www.virtualbox.org
+  
+  - MacOS
+    - VMware Fusion
+      - https://customerconnect.vmware.com/en/evalcenter?p=fusion-player-personal-13
+    - VirtualBox (Intel only. ARM and M1/M2 processors not stable)
+      - https://www.virtualbox.org/wiki/Downloads
+ ### Workspace Requirement
  Must have a seperate dedicated workspace. Please do not try participate without a safe, virtual environment.
   - .iso files are in the repository
  Two virtual machines are required. Choose your favorite flavor!
@@ -27,17 +41,3 @@
   - Debian based Linux
     
  We will host MacOs vm's to use as needed for sandboxing.
- 
- ### Hypervisor
- ` A Hypervisor is a software that can be used to create and monitor Virtual Machines `
-  - Windows/Linux
-    - VMware Workstation
-      - https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
-    - VirtualBox (ARM processors not stable)
-      - https://www.virtualbox.org
-  
-  - MacOS
-    - VMware Fusion
-      - https://customerconnect.vmware.com/en/evalcenter?p=fusion-player-personal-13
-    - VirtualBox (Intel only. ARM and M1/M2 processors not stable)
-      - https://www.virtualbox.org/wiki/Downloads
