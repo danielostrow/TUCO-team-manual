@@ -25,7 +25,8 @@
   - Windows
   - RedHat based Linux
   - Debian based Linux
-    * We will host MacOs vm's to use as needed for sandboxing.
+    
+ ####note: We will host MacOs vm's to use as needed for sandboxing.
  
  ### Hypervisor
  ` A Hypervisor is a software that can be used to create and monitor Virtual Machines `
