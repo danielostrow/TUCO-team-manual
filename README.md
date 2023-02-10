@@ -39,5 +39,5 @@
   - MacOS
     - VMware Fusion
       - https://customerconnect.vmware.com/en/evalcenter?p=fusion-player-personal-13
-    - VirtualBox (Intel based only. ARM and M1/M2 processors not stable)
+    - VirtualBox (Intel only. ARM and M1/M2 processors not stable)
       - https://www.virtualbox.org/wiki/Downloads
