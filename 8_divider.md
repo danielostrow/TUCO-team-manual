@@ -4,3 +4,6 @@
 - 9_keyword.pdf
 - 10_keyword.pdf
 - etc...
+
+### Ethics / terms and conditions
+
